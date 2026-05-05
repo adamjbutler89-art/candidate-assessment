@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 
 const EMAILJS_SERVICE_ID  = "service_fipxcf7";
-const EMAILJS_TEMPLATE_ID = "template_mwolk6p";
+const EMAILJS_TEMPLATE_ID = "template_fv1o42s";
 const EMAILJS_PUBLIC_KEY  = "9hXOZnnew2Met7Yk9";
 const RESULTS_EMAIL       = "adamjbutler89@gmail.com";
 
